@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Alvin-Liu/Alvin-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alvin-Liu, JS coder
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on deepexi
+- 🌱 I’m currently learning Node.js
+- 💬 Ask me about JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me 📫 
+
+- blog: [blog.albwin.info](http://blog.albwin.info)
+- email: alvin.llm@foxmail.com
+- wechat: Alvin_Liu94
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Alvin-Liu&show_icons=true&theme=dark&count_privat)
+
