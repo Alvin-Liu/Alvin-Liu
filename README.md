@@ -23,7 +23,7 @@ I'm Alvin-Liu, JS coder
 <br />
 
 <div>
-  <a href="https://github.com/Alvin-LM">
+  <a href="https://github.com/Alvin-Liu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Liu&layout=compact&theme=tokyonight" />
   </a>
 </div>
