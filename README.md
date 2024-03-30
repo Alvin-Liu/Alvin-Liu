@@ -13,8 +13,10 @@ I'm Alvin-Liu, JS coder
 
 ## Contact me 📫 
 
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/Alvin-Liu/count.svg" />
+<div style="display: none">
+  <div align="center">
+    <img align="center" src="https://profile-counter.glitch.me/Alvin-Liu/count.svg" />
+  </div>
 </div>
 
 - Email: alvin.lm.liu@gmail.com
