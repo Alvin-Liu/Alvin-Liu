@@ -20,7 +20,7 @@ I'm Alvin-Liu, JS coder
 </div>
 
 - Email: alvin.lm.liu@gmail.com
-- WeChat: chenzisangeban
+- WeChat: chengzisangeban
 
 <br />
 
