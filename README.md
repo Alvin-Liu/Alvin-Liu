@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm Alvin-Liu, JS coder
-
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScripe-vin?style=flat&logo=javascript&logoColor=white&color=orange">
   <img src="https://img.shields.io/badge/-TypeScript-vin?style=flat&logo=typescript&logoColor=white&color=informational">
@@ -13,8 +9,7 @@ I'm Alvin-Liu, JS coder
 
 ## Contact me 📫 
 
-- Email: alvin.lm.liu@gmail.com
-- WeChat: chengzisangeban
+- Telegram: [@lemondev01](https://t.me/lemondev01)
 
 <br />
 
